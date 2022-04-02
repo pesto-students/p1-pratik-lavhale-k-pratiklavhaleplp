@@ -1,0 +1,155 @@
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    padding-left: 10px;
+    width: 36px;
+    background-color: #f1f1f1;
+  }
+  
+
+.column-1 {
+    float: left;
+    width: 3%;
+  }
+  .column-2 {
+    float: left;
+    width: 97%;
+    position: absolute;
+    background: #454545;
+    right: -0.5%;
+  }  
+
+.nav-height-addjust{
+    height: 73px;
+    padding-top: 10px;
+}
+
+.song-image{
+    padding: 20px;
+    width: 20%;
+    margin-right: 0px;
+    float: left;
+}
+
+.song-info{
+    height: 100px;
+    margin-top: 20px;
+    width: 50%;
+    float: left;
+}
+
+.heading-text{
+    font-size: 30px;
+    color: white;
+    margin: 0px;
+    margin-bottom: 10px;
+}
+
+
+.artist-text{
+    font-size: 15px;
+    color: white;
+    margin: 0px;
+}
+
+.description-text{
+    font-size: 15px;
+    color: white;
+    margin: 0px;
+}
+
+.song-heading{
+
+}
+
+.artist-name{
+
+}
+
+.song-description{
+
+}
+
+
+.song-actions{
+    width: 40%;
+    height: 40px;
+    position: absolute;
+    top: 78%;
+}
+
+.icon-play{
+    margin-top: 8px ;color: white;
+}
+.span-play{
+    font-size: 20px; color: white; position: absolute;top: 20%;
+}
+
+
+.icon-add{
+    margin-top: 8px ;color: white; position: absolute;right: 82%;
+}
+.span-add{
+    font-size: 20px; color: white; position: absolute;
+    left: 18%;
+    top: 20%; margin-right: 10px;
+}
+
+
+.icon-more{
+    margin-top: 8px ;color: white; position: absolute;
+    left: 31%;
+}
+.span-more{
+    font-size: 20px; color: white; margin-right: 10px;
+    position: absolute;
+    top: 20%;
+    left: 35%;
+}
+
+tr:nth-child(even) {background-color: #f2f2f2;}
+
+tr{
+    height: 35px;
+}
+table
+{
+    position: absolute;
+    top: 41%;
+    left: 4%;
+    width: 100%;
+}
+
+.footer-strip{
+    height: 88px;
+    width: 100%;
+    background: #43689c;
+    position: absolute;
+    top: 88%;
+}
+
+.fotter-icons{
+    width: 175px;
+    position: relative;
+    bottom: 25px;
+}
+
+.fotter-icons-last{
+    width: 0px;
+    position: relative;
+    bottom: 25px;
+}
+.sog-des{
+ margin-top: 10px;
+}
+
+.fotter-song-description{
+    float: left;
+        height: 75px;
+        width: 385px;
+        padding-top: 10px;
+        position: absolute;
+        top: 7%;
+        right: 68%;
+}
